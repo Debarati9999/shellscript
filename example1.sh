@@ -1,0 +1,2 @@
+echo "hello"
+ps -ef
