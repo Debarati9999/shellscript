@@ -7,7 +7,6 @@ echo $search_dir
  
 
 for dir in "$search_dir"/*/
-
 do
 
 find $search_dir  -type f  -empty -print ;
