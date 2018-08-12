@@ -1,2 +1,2 @@
 echo "hello"
-ps -ef
+ps -ef | grep -v grep 
